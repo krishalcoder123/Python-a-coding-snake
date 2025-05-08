@@ -40,4 +40,8 @@ board.left(90)
 board.forward(100)
 board.left(90)
 
+#circle
+
+board.circle(radius=50)
+
 board.done()
